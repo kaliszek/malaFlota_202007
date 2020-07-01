@@ -1,0 +1,12 @@
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe.config
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\Formularz.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.pdb

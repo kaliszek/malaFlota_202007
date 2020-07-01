@@ -1,0 +1,3 @@
+D:\Visual Studio 2012\Projects\malaFlota\Reports\obj\Debug\Test.Form1.resources
+D:\Visual Studio 2012\Projects\malaFlota\Reports\obj\Debug\Reports.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\Reports\obj\Debug\Reports.csprojResolveAssemblyReference.cache

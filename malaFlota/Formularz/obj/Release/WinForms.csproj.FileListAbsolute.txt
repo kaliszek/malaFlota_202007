@@ -1,0 +1,13 @@
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Release\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Release\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Release\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\WinForms.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.FormAddKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.FormAddPojazdy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.FormKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.FormPojazdy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.Mainfrm.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\WinForms.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Release\Formularz.pdb

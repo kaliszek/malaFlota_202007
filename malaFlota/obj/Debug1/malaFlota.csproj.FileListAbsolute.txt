@@ -1,0 +1,14 @@
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.Mainfrm.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.Form1.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.FormKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.FormAddKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.FormAddPojazdy.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.FormPojazdy.resources

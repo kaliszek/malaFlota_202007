@@ -1,0 +1,73 @@
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\malaFlota.pdb
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\bin\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\malaFlota.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.FormAddPojazdy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.FormPojazdy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.FormAddKierowcy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.FormKierowcy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.Mainfrm.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\Formularz.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\malaFlota.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\11042014\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\Formularz.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+D:\kopiaMalaFlota\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+D:\kopiaMalaFlota\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+D:\kopiaMalaFlota\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+C:\Users\Wojtek\Desktop\malaFlota\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+C:\Users\Wojtek\Desktop\malaFlota\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+C:\Users\Wojtek\Desktop\malaFlota\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\Formularz.Properties.Resources.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Debug\malaFlota.csproj.GenerateResource.Cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.exe
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Formularz.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Formularz.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\crListaKierowca.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\crListaPojazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\malaFlota.exe.config
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\obj\Debug\malaFlota.exe
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\obj\Debug\malaFlota.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\crListaKierowca.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\crListaPojazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\malaFlota.exe
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\malaFlota.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\DB.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\Formularz.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\Zasoby.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\CrystalReport.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\DB.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\Formularz.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\Zasoby.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\bin\Debug\CrystalReport.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\obj\Debug\malaFlota.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\obj\Debug\Formularz.Properties.Resources.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\malaFlota\obj\Debug\malaFlota.csproj.GenerateResource.Cache

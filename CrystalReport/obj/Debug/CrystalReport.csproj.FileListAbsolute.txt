@@ -1,0 +1,25 @@
+H:\VS\Visual Studio 2010\Projects\DoTestow\CrystalReport\bin\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2010\Projects\DoTestow\CrystalReport\bin\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2010\Projects\DoTestow\CrystalReport\obj\Debug\CrystalReport.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2010\Projects\DoTestow\CrystalReport\obj\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2010\Projects\DoTestow\CrystalReport\obj\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Debug\CrystalReport.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\crListaKierowca.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\crListaPojazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\crListaKierowca.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\crListaPojazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\CrystalReport.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\CrystalReport.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\DB.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\bin\Debug\DB.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\obj\Debug\CrystalReport.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\obj\Debug\CrystalReport.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\CrystalReport\obj\Debug\CrystalReport.pdb

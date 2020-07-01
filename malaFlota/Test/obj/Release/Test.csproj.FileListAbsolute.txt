@@ -1,0 +1,11 @@
+D:\Visual Studio 2012\Projects\malaFlota\Test\bin\Release\Test.exe.config
+D:\Visual Studio 2012\Projects\malaFlota\Test\bin\Release\Test.exe
+D:\Visual Studio 2012\Projects\malaFlota\Test\bin\Release\Test.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Test\bin\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\Test\bin\Release\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.Form1.resources
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.exe
+D:\Visual Studio 2012\Projects\malaFlota\Test\obj\Release\Test.pdb

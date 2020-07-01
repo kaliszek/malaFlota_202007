@@ -1,0 +1,13 @@
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\bin\Release\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\bin\Release\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Release\Zasoby.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Release\Zasoby.Properties.Resources.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Release\Zasoby.csproj.GenerateResource.Cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Release\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Release\Zasoby.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\bin\Release\Zasoby.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\bin\Release\Zasoby.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\obj\Release\Zasoby.Properties.Resources.resources
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\obj\Release\Zasoby.csproj.GenerateResource.Cache
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\obj\Release\Zasoby.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\Zasoby\obj\Release\Zasoby.pdb

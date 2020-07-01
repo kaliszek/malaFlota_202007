@@ -1,0 +1,12 @@
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Release\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Release\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\bin\Release\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\bin\Release\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\obj\Release\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\obj\Release\DB.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\DB\bin\Release\DB.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\DB\bin\Release\DB.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\DB\obj\Release\DB.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\DB\obj\Release\DB.pdb

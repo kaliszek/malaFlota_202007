@@ -1,0 +1,5 @@
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache

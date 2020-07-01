@@ -1,0 +1,79 @@
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\bin\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\bin\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.FormAddKierowcy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.FormAddPojazdy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.FormKierowcy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.FormPojazdy.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.Mainfrm.resources
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\11042014\malaFlota\Formularz\obj\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddPojazdy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormKierowcy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormPojazdy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\WinForms.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.Mainfrm.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddTrase.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormTrasy.resources
+D:\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddTank.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Formularz.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Formularz.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddKierowcy.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddPojazdy.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddTank.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormAddTrase.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormKierowcy.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormPojazdy.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormTrasy.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.Mainfrm.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\WinForms.csproj.GenerateResource.Cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.FormLogin.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\obj\Debug\Formularz.Properties.Resources.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\crListaKierowca.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\crListaPojazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\Formularz\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\crListaKierowca.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\crListaPojazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\crListaWyjazd.rpt
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\Formularz.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\Formularz.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\CrystalReport.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\DB.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\Zasoby.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\CrystalReport.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\DB.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\bin\Debug\Zasoby.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormAddKierowcy.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormAddPojazdy.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormAddTank.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormAddTrase.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormKierowcy.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormLogin.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormPojazdy.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.FormTrasy.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.Mainfrm.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.Properties.Resources.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Formularz\obj\Debug\Formularz.pdb

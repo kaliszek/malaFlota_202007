@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7140F75-30FD-4672-BA44-101F2C3311D7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Formularz</RootNamespace>
+    <AssemblyName>Formularz</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FormAddTrase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddTrase.Designer.cs">
+      <DependentUpon>FormAddTrase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddTank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddTank.Designer.cs">
+      <DependentUpon>FormAddTank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrasy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrasy.Designer.cs">
+      <DependentUpon>FormTrasy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddKierowcy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddKierowcy.Designer.cs">
+      <DependentUpon>FormAddKierowcy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddPojazdy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddPojazdy.Designer.cs">
+      <DependentUpon>FormAddPojazdy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKierowcy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKierowcy.Designer.cs">
+      <DependentUpon>FormKierowcy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPojazdy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPojazdy.Designer.cs">
+      <DependentUpon>FormPojazdy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainfrm.Designer.cs">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormAddKierowcy.resx">
+      <DependentUpon>FormAddKierowcy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddPojazdy.resx">
+      <DependentUpon>FormAddPojazdy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddTank.resx">
+      <DependentUpon>FormAddTank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddTrase.resx">
+      <DependentUpon>FormAddTrase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKierowcy.resx">
+      <DependentUpon>FormKierowcy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPojazdy.resx">
+      <DependentUpon>FormPojazdy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrasy.resx">
+      <DependentUpon>FormTrasy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainfrm.resx">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DB\DB.csproj">
+      <Project>{320571f9-2a80-4013-ba02-7e3c71b07d74}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

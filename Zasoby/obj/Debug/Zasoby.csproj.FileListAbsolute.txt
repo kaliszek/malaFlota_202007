@@ -1,0 +1,14 @@
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\bin\Debug\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\bin\Debug\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Debug\Zasoby.Properties.Resources.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Debug\Zasoby.csproj.GenerateResource.Cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Debug\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Debug\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\Zasoby\obj\Debug\Zasoby.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\bin\Debug\Zasoby.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\bin\Debug\Zasoby.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\obj\Debug\Zasoby.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\obj\Debug\Zasoby.Properties.Resources.resources
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\obj\Debug\Zasoby.csproj.GenerateResource.Cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\obj\Debug\Zasoby.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\Zasoby\obj\Debug\Zasoby.pdb

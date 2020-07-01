@@ -1,0 +1,21 @@
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\crListaKierowca.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\crListaPojazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\crListaWyjazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\bin\Release\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\crPojazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\crListaKierowca.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\crListaPojazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\crListaWyjazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\CrystalReport.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\CrystalReport.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\DB.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\bin\Release\DB.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.csprojResolveAssemblyReference.cache
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\CrystalReport\obj\Release\CrystalReport.pdb

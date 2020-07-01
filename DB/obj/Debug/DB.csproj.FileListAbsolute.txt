@@ -1,0 +1,15 @@
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\bin\Debug\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\DB\bin\Debug\DB.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\DB\bin\Debug\DB.pdb
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\DB\obj\Debug\DB.dll
+C:\Users\jacek.BOSSCOMPUTERS\Desktop\malaFlota\DB\obj\Debug\DB.pdb

@@ -1,0 +1,2 @@
+D:\Visual Studio 2012\Projects\malaFlota\Reports\obj\Release\Test.Form1.resources
+D:\Visual Studio 2012\Projects\malaFlota\Reports\obj\Release\Reports.csproj.GenerateResource.Cache

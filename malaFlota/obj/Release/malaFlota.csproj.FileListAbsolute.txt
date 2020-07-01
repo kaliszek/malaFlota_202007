@@ -1,0 +1,51 @@
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe.config
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.dll
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.pdb
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\Formularz.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.exe
+D:\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe.config
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.exe
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\crListaKierowca.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\crListaPojazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\crListaWyjazd.rpt
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\malaFlota.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Zasoby.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\CrystalReport.dll
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\DB.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Formularz.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\Zasoby.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\bin\Release\CrystalReport.pdb
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csprojResolveAssemblyReference.cache
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\Formularz.Properties.Resources.resources
+H:\VS\Visual Studio 2012\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csproj.GenerateResource.Cache
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\crPojazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\crListaKierowca.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\crListaPojazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\crListaWyjazd.rpt
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe.config
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\malaFlota.exe
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\malaFlota.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\DB.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\Formularz.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\Zasoby.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\CrystalReport.dll
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\DB.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\Formularz.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\Zasoby.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\bin\Release\CrystalReport.pdb
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csprojResolveAssemblyReference.cache
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\obj\Release\Formularz.Properties.Resources.resources
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\obj\Release\malaFlota.csproj.GenerateResource.Cache
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\obj\Release\malaFlota.exe
+\\s01\redirectedfolders\jacek\My Documents\Visual Studio 2013\Projects\malaFlota\malaFlota\obj\Release\malaFlota.pdb
